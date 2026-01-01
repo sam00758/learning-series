@@ -1,3 +1,3 @@
 # learning-series
-learning the basics
+learning the basics<br>
 Author-Sarvagya Singh
